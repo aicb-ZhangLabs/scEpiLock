@@ -1,0 +1,24 @@
+{
+  "pos_forward_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/input/brain_atac_hg38_final.fa",
+  "encode_path": "/home/yanweng/snp_effect/data/general/encode_peak_idr_threshold/ENCODE_noBrain.fa",
+  "neg_path": "/home/yanweng/snp_effect/data/general/universal_neg_idr_threshold/neg_noENCODE_noBrain.fa",
+  "label_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/input/brain_scATAC_label.csv",
+  "encode_n": 0,
+  "neg_n": 100000,
+  "model_name": "DeepSea4",
+  "load_trans_model": "False",
+  "num_epochs": 25,
+  "batch_size": 64,
+  "learning_rate": 0.0005,
+  "weight_decay": 0,
+  "use_pos_weight": "False",
+  "cell_cluster": "all",
+  "n_class": 6,
+  "n_class_trans":8,
+  "model_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/output/0829_DeepSea4_encode0k_neg10k_brain_max/model.pt",
+  "output_evaluation_data_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/output/0910_DeepSea4_encode0k_neg0k_brain_max_with_rf/",
+  "trans_model_path": "/home/yanweng/snp_effect/data/for_model_v2/output_trans/0329_chvon2_nobalance/model.pt",
+  "subset": "False",
+  "balance": "False"
+}
+

@@ -1,0 +1,11 @@
+{
+  "peak_bed": "/home/yanweng/snp_effect/data/brain_snp/input/brain_atac_hg38_peak_with_selected_snp.bed",
+  "snp_bed": "/home/yanweng/snp_effect/data/brain_snp/input/snp_loc_selected_sorted.bed",
+  "ref_fasta": "/home/yanweng/common_data/hg38/hg38.fa",
+  "model_name": "DeepSea4",
+  "model_weight_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/output/0704_DeepSea4_negative10k_brain/model.pt",
+  "n_class": 6,
+  "result_path": "/home/yanweng/snp_effect/data/brain_snp/output/test_3snp_20210711"
+}
+
+
