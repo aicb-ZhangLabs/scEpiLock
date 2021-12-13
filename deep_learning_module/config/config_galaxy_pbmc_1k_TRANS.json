@@ -3,7 +3,7 @@
   "encode_path": "/home/yanweng/snp_effect/data/for_model_v2/input_trans_idr_threshold/univeral_negative_yg.fa",
   "label_path": "/home/yanweng/snp_effect/data/for_model_v2/pbmc_1k_input_fa/label_one_hot.txt",
   "encode_n": 0,
-  "model_name": "DeepSea4",
+  "model_name": "scEpiLock",
   "load_trans_model": "True",
   "num_epochs": 20,
   "batch_size": 64,

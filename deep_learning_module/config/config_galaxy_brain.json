@@ -5,7 +5,7 @@
   "label_path": "/home/yanweng/snp_effect/data/for_model_brain_corces/input/brain_scATAC_label.csv",
   "encode_n": 0,
   "neg_n": 100000,
-  "model_name": "DeepSea4",
+  "model_name": "scEpiLock",
   "load_trans_model": "False",
   "num_epochs": 25,
   "batch_size": 64,
