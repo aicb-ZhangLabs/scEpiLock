@@ -72,7 +72,7 @@ Configuration json files are stored at scEpiLock/variant_impact/config/. For ins
 - "result_path": "/absolute/path/to/brain/variant_impact/all_snp_20210819",
   - where the variant impact result should be saved
   
-### Run Varian Impact Quantification Module
+### Run Variant Impact Quantification Module
 ```
 python scEpiLock/variant_impact/main.py scEpiLock/variant_impact/config/brain_config.json
 ```
