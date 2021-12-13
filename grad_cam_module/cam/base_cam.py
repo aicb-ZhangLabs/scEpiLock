@@ -1,7 +1,7 @@
 #import cv2
 import numpy as np
 import torch
-from .activation_and_gradiant import ActivationsAndGradients
+from cam.activation_and_gradiant import ActivationsAndGradients
 
 class BaseCAM:
 

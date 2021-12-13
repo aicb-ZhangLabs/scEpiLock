@@ -1,6 +1,6 @@
-from .cam.grad_cam import GradCAM
-from .model_register import Model_Register
-from .utils.utils import Utils
+from cam.grad_cam import GradCAM
+from model_register import Model_Register
+from utils.utils import Utils
 import torch
 import numpy as np
 

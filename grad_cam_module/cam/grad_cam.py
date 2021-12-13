@@ -1,7 +1,7 @@
 #import cv2
 import numpy as np
 import torch
-from .base_cam import BaseCAM
+from cam.base_cam import BaseCAM
 
 class GradCAM(BaseCAM):
     def __init__(self, model, target_layer, use_cuda=False):

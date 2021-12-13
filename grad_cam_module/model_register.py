@@ -1,5 +1,5 @@
-from .model.scEpiLock import scEpiLock
-from .utils.utils import Utils
+from model.scEpiLock import scEpiLock
+from utils.utils import Utils
 
 class Model_Register():
 

@@ -1,8 +1,8 @@
 {
-  "pos_forward_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/pos_forward.fa",
-  "encode_path": "/home/yanweng/snp_effect/data/general/encode_peak_idr_threshold/ENCODE_noPBMC.fa",
-  "neg_path": "/home/yanweng/snp_effect/data/general/universal_neg_idr_threshold/neg_noENCODE_noPBMC.fa",
-  "label_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/label_one_hot.txt",
+  "pos_forward_path": "/home/yanweng/snp_effect/data/for_scEpiLock/pbmc/pbmc_atac_hg19_final.fa",
+  "encode_path": "/home/yanweng/snp_effect/data/for_scEpiLock/pbmc/ENCODE_noPBMC.fa",
+  "neg_path": "/home/yanweng/snp_effect/data/for_scEpiLock/pbmc/neg_noENCODE_noPBMC.fa",
+  "label_path": "/home/yanweng/snp_effect/data/for_scEpiLock/pbmc/label_one_hot.txt",
   "encode_n": 0,
   "neg_n": 10000,
   "model_name": "scEpiLock",
