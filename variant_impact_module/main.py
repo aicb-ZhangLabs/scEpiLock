@@ -1,10 +1,10 @@
 import sys
 import os
-from .utils.utils import Utils
-from .data.data_loader import DataLoader
-from .data.generate_fasta import FaGenerator
-from .utils.modelregister import ModelRegister
-from .evaluate.evaluator import Evaluator
+from utils.utils import Utils
+from data.data_loader import DataLoader
+from data.generate_fasta import FaGenerator
+from utils.modelregister import ModelRegister
+from evaluate.evaluator import Evaluator
 
 if __name__== '__main__':
     # 1\ Parses the command line arguments and returns as a simple namespace.

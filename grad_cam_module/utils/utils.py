@@ -2,7 +2,7 @@ from config.config import Config
 import json
 
 class Utils:
-    def print_separator(self, input_s):
+    def print_separator(input_s):
         print("-------------" + input_s + "-------------")
 
     @staticmethod

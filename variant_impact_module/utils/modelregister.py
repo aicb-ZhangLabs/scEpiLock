@@ -1,4 +1,4 @@
-from ..model.scEpiLock import scEpiLock
+from model.scEpiLock import scEpiLock
 
 class ModelRegister():
 
