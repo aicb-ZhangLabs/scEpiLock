@@ -1,5 +1,5 @@
 # scEpiLock
-Pytorch implementation for scEpiLock: a weakly supervised learning scheme for cis-regulatory element localization and variant impact quantification for single-cell epigenetic data
+Pytorch implementation for **scEpiLock: a weakly supervised learning scheme for cis-regulatory element localization and variant impact quantification for single-cell epigenetic data**
 
 ## Setup
 Clone the repository.
@@ -16,7 +16,7 @@ conda activate scEpilock
 ```
 
 ## Data
-Please download the data here. TODO: add hyperlink 
+Please download the data [here](https://drive.google.com/file/d/1hS1bBdlAxZjYOAqgenUe62oX79qIDCYD/view?usp=sharing). 
 
 ## Multi-label Deep Learning Module 
 This is to train and test the multi-label deep learning module, which predicts chromatin accessibility for individual cell type.
